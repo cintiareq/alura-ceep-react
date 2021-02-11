@@ -1,0 +1,18 @@
+.header {
+  position: absolute;
+  width: 100vw;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: var(--secundaria);
+  color: #fff;
+  z-index: 1;
+}
+
+.header_text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  letter-spacing: 0.5em;
+}
